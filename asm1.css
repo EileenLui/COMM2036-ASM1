@@ -1,0 +1,104 @@
+.whole {
+  width:100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
+
+section {
+    text-align: justify;
+    margin-bottom: 25px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2.3px solid black;
+  align-items: center;
+  margin: 0 auto;
+}
+th, td {
+  border: 1.2px solid black;
+  padding: 8px;
+}
+
+.center {
+    /* subway pic */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
+.square {
+    color: maroon;
+}
+.list-text {
+    text-align: left;
+}
+ul.hotel {
+    display: inline-block;
+    text-align: left;
+}
+
+.photo-list {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .photos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-right: 30px;
+  }
+  
+  .image {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+  }
+
+  .image1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: 1px solid #6d6d6d;
+  }
+  
+  .caption {
+    margin-top: 5px;
+  }
+
+.night-market {
+    display: inline;
+}
+
+.mini {
+  margin-bottom: 15px ;
+}
+
+.minor {
+  margin-top: 15px;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+.yt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px; 
+  width: 100%;
+}
+
+
